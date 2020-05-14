@@ -1,0 +1,22 @@
+header{
+    background-color:black;
+    color: white;
+    /* メニュー横ならびにしたいけどうまくできんからコメントアウト */
+    /* float: left; */
+}
+/* .main-menu{
+    float:left
+} */
+
+.theater h2{
+    border-bottom:2px solid #dee7ec;
+}
+.startheaters{
+    margin: auto 0;
+}
+h3{
+    font-family: "Lucida Grande";
+}
+li{
+    list-style: none;
+}
